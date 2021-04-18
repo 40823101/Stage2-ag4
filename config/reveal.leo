@@ -21,6 +21,8 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210419004110.1"><vh>2-1</vh></v>
+<v t="leo.20210419005726.1"><vh>2-2</vh></v>
+<v t="leo.20210419005841.1"><vh>2-3</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -240,13 +242,9 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;W5&lt;/h2&gt;
+&lt;p&gt;本周確定組別(stage2-ag4)以及組員(40823101、40823104、4023119、40823150)，並思考出大致的主題方向，這次主題將以腳踏車為主，也有可能再加入其他本組的構想，將再待觀察及提案。
+&lt;p&gt;&lt;img alt="" height="500" src="https://media.decathlon.tw/media/catalog/product/cache/10/image/9df78eab33525d08d6e5fb8d27136e95/9/5/95297742-d195-45bf-8621-c24d881b2dae_8480274.jpg" width="500"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
@@ -648,9 +646,14 @@ console.log( '"customevent" has fired' );
     &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210419004110.1">&lt;section&gt;
-    &lt;h2&gt;W5&lt;/h2&gt;
-&lt;p&gt;本周確定組別(stage2-ag4)以及組員(40823101、40823104、4023119、40823150)，並思考出大致的主題方向，這次主題將以腳踏車為主，也有可能再加入其他本組的構想，將再待觀察及提案。
-&lt;p&gt;&lt;img alt="" height="500" src="https://media.decathlon.tw/media/catalog/product/cache/10/image/9df78eab33525d08d6e5fb8d27136e95/9/5/95297742-d195-45bf-8621-c24d881b2dae_8480274.jpg" width="500"&gt;&lt;/p&gt;
+    &lt;h2&gt;每周進度&lt;/h2&gt;</t>
+<t tx="leo.20210419005726.1">&lt;section&gt;
+    &lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;w5 確定主題&lt;/p&gt;
+&lt;p&gt;w6 製作3D圖檔&lt;/p&gt;
+&lt;p&gt;w7 利用coppliasim模擬及修改錯誤&lt;/p&gt;
+&lt;p&gt;w8 報告&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210419005841.1"></t>
 </tnodes>
 </leo_file>
