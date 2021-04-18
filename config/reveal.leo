@@ -213,7 +213,7 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
     &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://github.com/40823101"&gt;40823101 林晏鈴&lt;/a&gt; and &lt;a href="https://github.com/40823104"&gt;40823104 葉沛翎&lt;/a&gt;&lt;a href="https://github.com/40823119"&gt;40823119 林郁凱&lt;/a&gt;、&lt;a href="https://github.com/40823150"&gt;40823150 蘇鷺瑋&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
