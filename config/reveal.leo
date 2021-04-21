@@ -635,7 +635,8 @@ console.log( '"customevent" has fired' );
     &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210419004110.1">&lt;section&gt;
-    &lt;h2&gt;每周進度及小組分配&lt;/h2&gt;</t>
+    &lt;h2&gt;每周進度及小組分配&lt;/h2&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20210419005726.1">&lt;section&gt;
     &lt;h2&gt;每周進度&lt;/h2&gt;
 &lt;p&gt;w5 確定主題&lt;/p&gt;
