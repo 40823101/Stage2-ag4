@@ -29,10 +29,12 @@
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh>
-<v t="leo.20210419010959.1"><vh>newHeadline</vh></v>
-<v t="leo.20210419011006.1"><vh>newHeadline</vh></v>
+<v t="leo.20210419010959.1"><vh>slide 4-1</vh></v>
+<v t="leo.20210422031125.1"><vh>slide 4-2</vh></v>
 </v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh>
+<v t="leo.20210422021755.1"><vh>slide 5-1</vh></v>
+</v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
@@ -234,35 +236,23 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+<t tx="leo.20200818170725.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;W5&lt;/h2&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;p&gt;本周確定組別(stage2-ag4)以及組員(40823101、40823104、4023119、40823150)，並思考出大致的主題方向，這次主題將以腳踏車為主，也有可能再加入其他本組的構想，將再待觀察及提案。
+&lt;/section&gt;</t>
+<t tx="leo.20200818170953.1">&lt;section/&gt;
+&lt;p&gt;本周確定組別(stage2-ag4)以及組員(40823101、40823104、4023119、40823150)，並思考出大致的主題方向，這次主題將以腳踏車為主，也有可能再加入其他本組的構想，將再待觀察及提案。
 &lt;p&gt;&lt;img alt="" height="500" src="https://media.decathlon.tw/media/catalog/product/cache/10/image/9df78eab33525d08d6e5fb8d27136e95/9/5/95297742-d195-45bf-8621-c24d881b2dae_8480274.jpg" width="500"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
+<t tx="leo.20200818171138.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
 
 </t>
@@ -653,7 +643,15 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;40823119、40823150&lt;/p&gt;
 &lt;p&gt;coppliasim模擬及修改&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210419010959.1"></t>
-<t tx="leo.20210419011006.1"></t>
+<t tx="leo.20210419010959.1">&lt;section&gt;
+    &lt;h2&gt;W7&lt;/h2&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20210422021755.1"></t>
+<t tx="leo.20210422031125.1">&lt;section/&gt;
+&lt;h2&gt;w7&lt;/h2&gt;
+&lt;p&gt;利用INVENTER繪製出零件圖並組合。&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/PPJUAVmybvE" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
