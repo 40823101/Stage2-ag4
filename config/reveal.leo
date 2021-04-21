@@ -28,7 +28,10 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210419010959.1"><vh>newHeadline</vh></v>
+<v t="leo.20210419011006.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -636,7 +639,7 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;w5 確定主題&lt;/p&gt;
 &lt;p&gt;w6 製作3D圖檔&lt;/p&gt;
 &lt;p&gt;w7 利用coppliasim模擬及修改錯誤&lt;/p&gt;
-&lt;p&gt;w8 報告&lt;/p&gt;
+&lt;p&gt;w8 最後修改及簡報製作&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210419005841.1">&lt;section&gt;
     &lt;h2&gt;小組分配&lt;/h2&gt;
@@ -647,5 +650,7 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;40823119、40823150&lt;/p&gt;
 &lt;p&gt;coppliasim模擬及修改&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210419010959.1"></t>
+<t tx="leo.20210419011006.1"></t>
 </tnodes>
 </leo_file>
