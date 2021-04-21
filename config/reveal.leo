@@ -34,8 +34,13 @@
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="leo.20210422021755.1"><vh>slide 5-1</vh></v>
+<v t="leo.20210422031851.1"><vh>slide 5-2</vh></v>
+<v t="leo.20210422032004.1"><vh>slide 5-3</vh></v>
+<v t="leo.20210422032005.1"><vh>slide 5-4</vh></v>
+<v t="leo.20210422032005.2"><vh>slide 5-5</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
+<v t="leo.20210422031820.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
@@ -256,37 +261,9 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
+<t tx="leo.20200818171215.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
 
 </t>
@@ -646,11 +623,30 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20210419010959.1">&lt;section&gt;
     &lt;h2&gt;W7&lt;/h2&gt;
     &lt;/section&gt;</t>
-<t tx="leo.20210422021755.1"></t>
+<t tx="leo.20210422021755.1">&lt;section&gt;
+    &lt;h2&gt;W8&lt;/h2&gt;
+    &lt;/section&gt;</t>
 <t tx="leo.20210422031125.1">&lt;section/&gt;
-&lt;h2&gt;w7&lt;/h2&gt;
 &lt;p&gt;利用INVENTER繪製出零件圖並組合。&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/PPJUAVmybvE" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422031820.1"></t>
+<t tx="leo.20210422031851.1">&lt;section/&gt;
+&lt;p&gt;利用coppliasim製作模擬&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422032004.1">&lt;section/&gt;
+&lt;p&gt;1.第一次模擬發現輪子和齒輪會直接掉落，經過從以前學長的影片和講解我們發現是基準面的問題&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/9YPMFW9FywU" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422032005.1">&lt;section/&gt;
+&lt;p&gt;2.所以我們增加了基準面，就有了第二個模擬&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/wL2jF5kr_UU" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422032005.2">&lt;section/&gt;
+&lt;p&gt;3.，將踏板個後齒輪和後輪連結在一起，最後我們本來要進行實體碰撞，但是，發現我們進行實體碰撞之後齒輪方面會卡齒，我們更換了間隔更大的齒輪發現無法解決問題，導致自行車會散架，我們也無從到學長的影片和講解中得到解釋，所以我們的實體實驗失敗了&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WRv12D-hjxo" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
